@@ -1,0 +1,9 @@
+{
+  "openai": {
+    "apiKey": "YOUR_OPENAI_API_KEY"
+  },
+  "periodicMessage": {
+    "schedule": "0 9 * * *",
+    "message": "¡Buenos días! Estoy aquí para ayudarte."
+  }
+}
